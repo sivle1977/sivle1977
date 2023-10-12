@@ -1,6 +1,6 @@
 - 👋 Hola, Soy @sivle1977
-- 👀 Estoy interesado en datos de la economía y los movimientos sociales en sudamérica
-- 🌱 Generalmente estudio la gestión y políticas públicas
+- 👀 Estoy interesado estudios de optimizaciòn de recursos en el servicio de administraciòn de justicia.
+- 🌱 Generalmente desarrollo informes para la toma de decisiones en la administraciòn de justicia.
 - 💞️ Me desempeño como Docente Universitario y Jefe de la Unidad Administrativa y de Finanzas en el Poder Judicial
 
 <!---

@@ -1,6 +1,6 @@
 - 👋 Hola, Soy @sivle1977
 - 👀 Estoy interesado estudios de optimizaciòn de recursos en el servicio de administraciòn de justicia.
-- 🌱 Generalmente desarrollo informes para la toma de decisiones en la administraciòn de justicia.
+- 🌱 Generalmente desarrollo informes para la toma de decisiones en la gestiòn de instituciones pùblicas
 - 💞️ Me desempeño como Docente Universitario y Jefe de la Unidad Administrativa y de Finanzas en el Poder Judicial
 
 <!---
